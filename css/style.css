@@ -420,12 +420,12 @@ background-color: rgb(255, 255, 255);
   }
   .slider .slick-arrow.slick-prev{
     left: 0; 
-    background: url('/img/left-arrow.png') 0 0 / 100% no-repeat;
+    background: url('/vilni/img/left-arrow.png') 0 0 / 100% no-repeat;
 }
 
 .slider .slick-arrow.slick-next{
     right: 0;
-    background: url('/img/right-arrow.png') 0 0 / 100% no-repeat;
+    background: url('/vilni/img/right-arrow.png') 0 0 / 100% no-repeat;
 }
 
 .slick-dots li button::before{
